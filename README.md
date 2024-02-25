@@ -1,7 +1,7 @@
 [<img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" width="4000" height="200">](https://Naman-bangari.io)
 
 <h1 align="center">Hi 👋, I'm Naman Bangari</h1>
-<h3 align="center">I am pursuing my btech in computer science and engineering from graphic era hill university . My interest is in machine learning and web development and have done several project related. I actively participate in coding contest which help me to improve my critical thinking and problem solving ability and when I am not coding I like to play chess or football.</h3>
+<h3 align="center">Full-stack web developer and ML  enthusiast </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
