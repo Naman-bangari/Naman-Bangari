@@ -1,4 +1,4 @@
-[<img src="https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif" width="4000" height="200">](https://Naman-bangari.io)
+[<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000" height="400">](https://Naman-bangari.io)
 
 <h1 align="center">Hi 👋, I'm Naman Bangari</h1>
 <h3 align="center">Full-stack web developer and ML  enthusiast </h3>
