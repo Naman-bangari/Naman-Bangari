@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning **Django and Mern stack**
 
 - Knight @leetcode (max_rating 1903).
-- Solved 600+ dsa question on leetcode.
-- Solved 700+ dsa questions on gfg.
+- Solved 600+ DSA question on leetcode.
+- Solved 700+ DSA questions on gfg.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naman-bangari?tab=repositories](https://github.com/Naman-bangari?tab=repositories)
 
