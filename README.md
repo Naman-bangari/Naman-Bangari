@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django and Mern stack**
 
-- Knight @leetcode (max_rating 1903).
+- Knight @leetcode (max_rating 1912).
 - Solved 600+ DSA question on leetcode.
 - Solved 700+ DSA questions on gfg.
 
