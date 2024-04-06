@@ -1,6 +1,6 @@
 [<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000" height="400">](https://Naman-bangari.io)
 
-<h1 align="center">Hi 👋, I'm Naman Bangari</h1>
+<h1 align="center">Hi  👋, I'm Naman Bangari</h1>
 <h3 align="center">Full-stack web developer and ML  enthusiast </h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
@@ -12,8 +12,8 @@
 - 🌱 I’m currently learning **Django and Mern stack**
 
 - Knight @leetcode (max_rating 1973).
-- Solved 600+ DSA question on leetcode.
-- Solved 700+ DSA questions on gfg.
+- Solved 650+ DSA question on leetcode.
+- Solved 750+ DSA questions on gfg.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naman-bangari?tab=repositories](https://github.com/Naman-bangari?tab=repositories)
 
