@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **ReactJs and Django**
 
-- 🌱 I’m currently learning **Django and Mern stack**
+- 🌱 I’m currently learning **Django and Machine learning**
 
 - Knight @leetcode (max_rating 1973).
-- Solved 650+ DSA question on leetcode.
-- Solved 750+ DSA questions on gfg.
+- Solved 750+ DSA question on leetcode.
+- Solved 800+ DSA questions on gfg.
 
 - 👨‍💻 All of my projects are available at [https://github.com/Naman-bangari?tab=repositories](https://github.com/Naman-bangari?tab=repositories)
 
