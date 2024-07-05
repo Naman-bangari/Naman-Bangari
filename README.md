@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-bangari&label=Profile%20views&color=0e75b6&style=flat" alt="naman-bangari" /> </p>
 
-- 🔭 I’m currently working on **ReactJs and Django**
+- 🔭 I’m currently working on **MERN and Machine learning**
 
-- 🌱 I’m currently learning **Django and Machine learning**
+- 🌱 I'm interested in web development and competitive programming.
 
 - Knight @leetcode (max_rating 1973).
 - Solved 750+ DSA question on leetcode.
