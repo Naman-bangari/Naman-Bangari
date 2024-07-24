@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **namanbangari94565@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1SPP-kJXXnIViYZa6uPsJjZClWaP6bUCi/view?usp=sharing](https://drive.google.com/file/d/1SPP-kJXXnIViYZa6uPsJjZClWaP6bUCi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/172wBkHxQvEHV6W0fnATJ5n7oBVjeXkuP/view?usp=sharing)
 
 - ⚡ Fun fact **:: React component are always clam as they don't like unnecessary re-renders.**
 
