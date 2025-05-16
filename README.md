@@ -1,41 +1,66 @@
-[<img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" width="1000" height="400">](https://Naman-bangari.io)
+<!--
+  Improved GitHub Profile README
+-->
 
-<h1 align="center">Hi  👋, I'm Naman Bangari</h1>
-<h3 align="center">Full-stack web developer and ML  enthusiast </h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naman-bangari&label=Profile%20views&color=0e75b6&style=flat" alt="naman-bangari" /> </p>
-
-- 🔭 I’m currently working on **MERN and Machine learning**
-
-- 🌱 I'm interested in web development and competitive programming.
-
-- Knight @leetcode (max_rating 1973).
-- Solved 750+ DSA question on leetcode.
-- Solved 800+ DSA questions on gfg.
-
-- 👨‍💻 All of my projects are available at [https://github.com/Naman-bangari?tab=repositories](https://github.com/Naman-bangari?tab=repositories)
-
-- 📫 How to reach me **namanbangari94565@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/172wBkHxQvEHV6W0fnATJ5n7oBVjeXkuP/view?usp=sharing)
-
-- ⚡ Fun fact **:: React component are always clam as they don't like unnecessary re-renders.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/naman-bangari-0b49a8241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="naman-bangari-0b49a8241" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/namanbangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="namanbangari" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/namanbangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="namanbangari" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/namanbangari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="namanbangari" height="30" width="40" /></a>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm <strong>Naman Bangari</strong></h1>
+<h3 align="center">Full-stack Web Developer | ML Enthusiast</h3>
+<p align="center">
+  <a href="https://naman-bangari.io" target="_blank">
+    <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Intro Animation" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=naman-bangari&label=Profile%20views&color=0e75b6&style=flat"><img src="https://komarev.com/ghpvc/?username=naman-bangari&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naman-bangari&show_icons=true&locale=en&layout=compact" alt="naman-bangari" /></p>
+## 🔭 About Me
+- 🔥 Passionate about building performant & scalable web applications using the MERN stack and TensorFlow.js.
+- 🌱 Continuously learning new ML algorithms and competitive programming.
+- 👨‍💻 Check out my work on [GitHub](https://github.com/Naman-bangari?tab=repositories).
+- 📫 Reach me at **namanbangari94565@gmail.com**
+- 📄 [My Resume](https://drive.google.com/file/d/172wBkHxQvEHV6W0fnATJ5n7oBVjeXkuP/view?usp=sharing)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman-bangari&show_icons=true&locale=en" alt="naman-bangari" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naman-bangari&" alt="naman-bangari" /></p>
+## ⚙️ Skills & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" />
+</p>
+
+---
+
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/naman-bangari-0b49a8241" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="linkedin" width="30" /></a>
+  <a href="https://codeforces.com/profile/namanbangari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/codeforces.svg" alt="codeforces" width="30" /></a>
+  <a href="https://leetcode.com/namanbangari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/leetcode.svg" alt="leetcode" width="30" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/namanbangari" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/geeksforgeeks.svg" alt="gfg" width="30" /></a>
+  <a href="mailto:namanbangari94565@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" alt="email" width="30" /></a>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naman-bangari&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naman-bangari&theme=radical" alt="Streak Stats" />
+</p>
+
+---
+
+> **Fun Fact:** React components are always calm 😌 because they don’t like unnecessary re-renders!
