@@ -18,7 +18,7 @@
 ---
 
 ## 🔭 About Me
-- 🔥 Passionate about building performant & scalable web applications using the MERN stack and TensorFlow.js.
+- 🔥 Passionate about building performant & scalable web applications using Spring-react, MERN stack  and TensorFlow.js.
 - 🌱 Continuously learning new ML algorithms and competitive programming.
 - 👨‍💻 Check out my work on [GitHub](https://github.com/Naman-bangari?tab=repositories).
 - 📫 Reach me at **namanbangari94565@gmail.com**
