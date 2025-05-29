@@ -82,4 +82,4 @@
 
 ---
 
-> **Fun Fact:** React components are always calm 😌 because they don’t like unnecessary re-renders!
+> **Fun Fact:** React components are always calm 😌 because they don’t like unnecessary re-renders!!
